@@ -5,11 +5,10 @@ date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- test
 star: true
 category: blog
-author: johndoe
+author: metadaoge
 description: Markdown summary with different options
 ---
 

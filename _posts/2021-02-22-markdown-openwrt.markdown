@@ -8,7 +8,7 @@ tag:
 - test
 star: true
 category: blog
-author: metadaoge
+author: metadog
 description: Markdown summary with different options
 ---
 

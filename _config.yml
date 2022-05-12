@@ -1,5 +1,5 @@
 # main text of home
-title: METADAOGE
+title: METADOG
 bio: NaN
 
 # twitter summary info
@@ -43,7 +43,7 @@ email: rwx@live.com
 
 authors:
   metadaoge:
-    name: metadaoge
+    name: metadog
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg

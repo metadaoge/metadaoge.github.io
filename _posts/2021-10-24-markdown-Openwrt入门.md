@@ -1,8 +1,7 @@
 ---
 title: "Openwrt入门"
 date: 2021-10-24 22:44
-image: /assets/images/markdown.jpg
-headerImage: /assets/images/markdown.jpg
+category: blog
 tag:
 - openwrt
 ---

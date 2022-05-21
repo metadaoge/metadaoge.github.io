@@ -92,8 +92,8 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
       layout: "post"
-      category: "blog"
-      author: "metadog"
+      author: metadog
+      headerImage: false
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post

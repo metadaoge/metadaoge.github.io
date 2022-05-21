@@ -42,7 +42,7 @@ disqus:
 email: metadog@foxmail.com
 
 authors:
-  metadaoge:
+  metadaog:
     name: metadog
     bio: A Man who travels the world eating noodles
     external-image: false
@@ -92,6 +92,8 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
       layout: "post"
+      category: "blog"
+      author: "metadog"
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post

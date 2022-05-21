@@ -1,15 +1,10 @@
 ---
 title: "Openwrt入门"
-layout: post
 date: 2021-10-24 22:44
 image: /assets/images/markdown.jpg
-headerImage: false
+headerImage: /assets/images/markdown.jpg
 tag:
 - openwrt
-star: false
-category: blog
-author: metadog
-description: 
 ---
 # 简介
 

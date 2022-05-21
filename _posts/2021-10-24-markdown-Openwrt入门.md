@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - openwrt
-star: true
+star: false
 category: blog
 author: metadog
 description: 

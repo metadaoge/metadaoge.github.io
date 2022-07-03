@@ -12,6 +12,12 @@
             <i class="fa-brands fa-weibo"></i>
         </a>
     {% endif %}
+    
+    {% if site.telegram %}
+        <a class="link" data-title="t.me/{{ site.telegram }}" href="https://t.me/{{ site.telegram }}" target="_blank" rel="noopener">
+            <i class="fa-brands fa-telegram"></i>
+        </a>
+    {% endif %}
 
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener">
